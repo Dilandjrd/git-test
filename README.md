@@ -5,5 +5,3 @@
  ## Prérequis
 
  Il faut juste un terminal bash et git.
-
- gyuttyftyrfyuguiguigu
